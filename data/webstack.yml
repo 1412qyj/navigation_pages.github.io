@@ -1,0 +1,35 @@
+---
+
+- taxonomy: AI 对话
+  icon: fas fa-comments
+  links:
+    - title: 豆包
+      logo: https://www.google.com/s2/favicons?domain=www.doubao.com&sz=128
+      url: https://www.doubao.com/chat/
+      description: 字节跳动豆包 AI 对话主界面。
+    - title: DeepSeek
+      logo: https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=128
+      url: https://chat.deepseek.com/
+      description: DeepSeek 官方在线对话入口。
+    - title: ChatGPT
+      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128
+      url: https://chatgpt.com/
+      description: OpenAI ChatGPT 官方对话主界面。
+
+- taxonomy: AI 相关资源
+  icon: fas fa-layer-group
+  list:
+    - term: 官方平台
+      links:
+        - title: OpenAI
+          logo: https://www.google.com/s2/favicons?domain=openai.com&sz=128
+          url: https://openai.com/
+          description: OpenAI 官方网站。
+        - title: DeepSeek 官网
+          logo: https://www.google.com/s2/favicons?domain=deepseek.com&sz=128
+          url: https://www.deepseek.com/
+          description: DeepSeek 官方网站。
+        - title: 豆包官网
+          logo: https://www.google.com/s2/favicons?domain=doubao.com&sz=128
+          url: https://www.doubao.com/
+          description: 豆包官方网站。

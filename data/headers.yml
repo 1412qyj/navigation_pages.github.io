@@ -1,0 +1,13 @@
+---
+
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 源码
+  icon: fa fa-code
+  link: https://gitee.com/qyj1412/navigation_pages
+
+- item: 关于
+  icon: fa fa-info-circle
+  link: "./about/"

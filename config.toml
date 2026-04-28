@@ -1,0 +1,48 @@
+baseURL = "https://qyj1412.gitee.io/navigation_pages/"
+languageCode = "zh-CN"
+title = "AI 导航"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+    author = "qyj1412"
+    description = "常用大模型对话入口导航"
+    upload = "https://gitee.com/qyj1412/navigation_pages/issues"
+    about = "./about/"
+    repository = "https://gitee.com/qyj1412/navigation_pages"
+    enablePreLoad = true
+    textPreLoad = "AI 导航"
+    expandSidebar = false
+    logosPath = "assets/images/logos"
+    defaultLogo = "assets/images/logos/default.webp"
+    nightMode = false
+    yiyan = false
+    fancybox = true
+
+[params.seo]
+    baiduhmid = ""
+    baiduSiteVer = ""
+    tj51laid = ""
+    tj51lack = ""
+    GoogleAdsClient = ""
+
+[params.qweather]
+    key = ""
+
+[params.images]
+    favicon = "assets/images/favicon.png"
+    searchImageL = "assets/images/bg-math.jpg"
+    searchImageD = "assets/images/bg-math.jpg"
+    logoExpandLight = "assets/images/logo@2x.png"
+    logoExpandDark = "assets/images/logo_dark@2x.png"
+    logoCollapseLight = "assets/images/logo-collapse-light.png"
+    logoCollapseDark = "assets/images/logo-collapse-dark.png"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params.footer]
+    copyright = '&copy; {year} AI 导航 | Powered by [WebStack-Hugo](https://gitee.com/shenweiyan/WebStack-Hugo)'
