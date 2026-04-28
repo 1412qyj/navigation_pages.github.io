@@ -1,4 +1,4 @@
-baseURL = "https://qyj1412.gitee.io/navigation_pages/"
+baseURL = "https://1412qyj.github.io/navigation_pages.github.io/"
 languageCode = "zh-CN"
 title = "AI 导航"
 preserveTaxonomyNames = true
@@ -10,9 +10,9 @@ disableKinds = ["taxonomy", "term"]
 [params]
     author = "qyj1412"
     description = "常用大模型对话入口导航"
-    upload = "https://gitee.com/qyj1412/navigation_pages/issues"
+    upload = "https://github.com/1412qyj/navigation_pages.github.io/issues"
     about = "./about/"
-    repository = "https://gitee.com/qyj1412/navigation_pages"
+    repository = "https://github.com/1412qyj/navigation_pages.github.io"
     enablePreLoad = true
     textPreLoad = "AI 导航"
     expandSidebar = false

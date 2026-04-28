@@ -79,12 +79,24 @@ static/assets/images/logos/
 logo: my-logo.png
 ```
 
-## 部署到 Gitee Pages
+## 部署到 GitHub Pages
 
-常见做法是先执行：
+本仓库已配置 GitHub Actions 自动部署。推送到 `master` 或 `main` 后，工作流会执行：
 
 ```bash
 hugo
 ```
 
-然后将 `public/` 目录中的静态文件发布到 Gitee Pages 对应分支或页面目录。具体方式取决于你的 Gitee Pages 配置。
+并将 `public/` 目录发布到 GitHub Pages。
+
+首次使用时，在 GitHub 仓库中进入：
+
+```text
+Settings -> Pages -> Build and deployment -> Source
+```
+
+选择 `GitHub Actions`。发布后访问：
+
+```text
+https://1412qyj.github.io/navigation_pages.github.io/
+```
