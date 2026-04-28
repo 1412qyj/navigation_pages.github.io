@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="OpenAI">
+  <rect width="128" height="128" rx="28" fill="#f4f4f0"/>
+  <circle cx="64" cy="64" r="42" fill="#111827"/>
+  <path fill="#fff" d="M64 34c17 0 30 13 30 30S81 94 64 94 34 81 34 64s13-30 30-30zm0 17c-7 0-13 6-13 13s6 13 13 13 13-6 13-13-6-13-13-13z"/>
+  <path fill="#cfd3d8" d="M64 24l8 14H56l8-14zm0 80-8-14h16l-8 14zm40-40-14 8V56l14 8zM24 64l14-8v16l-14-8z"/>
+</svg>

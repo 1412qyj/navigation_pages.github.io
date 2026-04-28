@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Doubao">
+  <rect width="128" height="128" rx="28" fill="#fff4ed"/>
+  <circle cx="64" cy="64" r="42" fill="#ff6a2a"/>
+  <path fill="#fff" d="M43 41h30c18 0 31 13 31 30s-13 30-31 30H43V41zm23 42h7c7 0 12-5 12-12s-5-12-12-12h-7v24z"/>
+  <path fill="#ffd8c2" d="M31 57c0-12 10-22 22-22h5v20H31v2zm66 14c0 12-10 22-22 22h-5V73h27v-2z"/>
+</svg>

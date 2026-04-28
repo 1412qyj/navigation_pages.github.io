@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ChatGPT">
+  <rect width="128" height="128" rx="28" fill="#eef8f4"/>
+  <circle cx="64" cy="64" r="42" fill="#10a37f"/>
+  <path fill="#fff" d="M38 64c0-15 11-26 26-26 8 0 15 3 20 8l-12 12c-2-2-5-3-8-3-6 0-10 4-10 9s4 9 10 9c4 0 7-1 9-4h-11V57h29c1 3 1 5 1 8 0 16-11 25-28 25-15 0-26-11-26-26z"/>
+</svg>
