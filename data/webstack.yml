@@ -4,32 +4,14 @@
   icon: fas fa-comments
   links:
     - title: 豆包
-      logo: doubao.svg
       url: https://www.doubao.com/chat/
       description: 字节跳动豆包 AI 对话主界面。
     - title: DeepSeek
-      logo: deepseek.svg
       url: https://chat.deepseek.com/
       description: DeepSeek 官方在线对话入口。
     - title: ChatGPT
-      logo: chatgpt.svg
       url: https://chatgpt.com/
       description: OpenAI ChatGPT 官方对话主界面。
-
-- taxonomy: AI 相关资源
-  icon: fas fa-layer-group
-  list:
-    - term: 官方平台
-      links:
-        - title: OpenAI
-          logo: openai.svg
-          url: https://openai.com/
-          description: OpenAI 官方网站。
-        - title: DeepSeek 官网
-          logo: deepseek.svg
-          url: https://www.deepseek.com/
-          description: DeepSeek 官方网站。
-        - title: 豆包官网
-          logo: doubao.svg
-          url: https://www.doubao.com/
-          description: 豆包官方网站。
+    - title: Gemini
+      url: https://gemini.google.com/app
+      description: Google Gemini 官方对话主界面。
