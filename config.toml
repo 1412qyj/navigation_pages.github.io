@@ -1,6 +1,6 @@
 baseURL = "https://navigation-pages-github-io.pages.dev/"
 languageCode = "zh-CN"
-title = "AI 导航"
+title = "KID1412QYJ 导航"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
     about = "./about/"
     repository = "https://github.com/1412qyj/navigation_pages.github.io"
     enablePreLoad = true
-    textPreLoad = "AI 导航"
+    textPreLoad = "KID1412QYJ 导航"
     expandSidebar = false
     logosPath = "assets/images/logos"
     defaultLogo = "assets/images/logos/default.webp"

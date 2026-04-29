@@ -15,3 +15,38 @@
     - title: Gemini
       url: https://gemini.google.com/app
       description: Google Gemini 官方对话主界面。
+
+
+- taxonomy: Home Local
+  icon: bell.svg
+  links:
+    - title: FNOS MainPage
+      url: http://192.168.31.139:5666
+      description: FNOS MainPage。
+    - title: UGreen MainPage
+      url: http://192.168.31.42:9999
+      description: UGreen MainPage。
+    - title: UGreen-siyuan
+      url: http://192.168.31.42:6806
+      description: UGreen siyuan.
+
+- taxonomy: JDXB Links
+  icon: bell.svg
+  links:
+    - title: FNOS MainPage
+      url: http://100.66.1.1:5666
+      description: FNOS MainPage。
+    - title: UGreen MainPage
+      url: http://100.66.1.5:9999
+      description: UGreen MainPage。
+    - title: UGreen-siyuan
+      url: http://100.66.1.5:6806
+      description: UGreen siyuan.
+
+
+- taxonomy: Resource Link
+  icon: bell.svg
+  links:
+    - title: Haowallpaper 4K
+      url: https://haowallpaper.com/
+      description: Haowallpaper。
