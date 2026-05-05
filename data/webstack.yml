@@ -43,6 +43,13 @@
       url: http://100.66.1.5:6806
       description: UGreen siyuan.
 
+- taxonomy: Games Links
+  icon: bell.svg
+  links:
+    - title: gamer520
+      url: https://www.gamer520.com/
+      description: gamer520
+
 
 - taxonomy: Resource Link
   icon: bell.svg
