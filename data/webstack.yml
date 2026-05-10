@@ -16,6 +16,12 @@
       url: https://gemini.google.com/app
       description: Google Gemini 官方对话主界面。
 
+- taxonomy: NAS 外网访问
+  icon: bell.svg
+  links:
+    - title: 绿联私有云-外网访问
+      url: https://ug.link/kid1412dxp4800p
+      description: 绿联私有云-外网访问
 
 - taxonomy: Home Local
   icon: bell.svg
