@@ -15,7 +15,10 @@
     - title: Gemini
       url: https://gemini.google.com/app
       description: Google Gemini 官方对话主界面。
-
+    - title: Kimi
+      url: https://www.kimi.com/zh/
+      description: Kimi 官方对话主界面。
+      
 - taxonomy: NAS 外网访问
   icon: bell.svg
   links:
@@ -63,3 +66,10 @@
     - title: Haowallpaper 4K
       url: https://haowallpaper.com/
       description: Haowallpaper。
+
+- taxonomy: Music
+  icon: bell.svg
+  links:
+    - title: 网易云
+      url: https://music.163.com/
+      description: 网易云主页
