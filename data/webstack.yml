@@ -18,6 +18,9 @@
     - title: Kimi
       url: https://www.kimi.com/zh/
       description: Kimi 官方对话主界面。
+      - title: Deepseek
+      url: https://www.deepseek.com/
+      description: Deepseek 主页
       
 - taxonomy: NAS 外网访问
   icon: bell.svg
@@ -38,7 +41,7 @@
     - title: UGreen-siyuan
       url: http://192.168.31.42:6806
       description: UGreen siyuan.
-
+      
 - taxonomy: JDXB Links
   icon: bell.svg
   links:
