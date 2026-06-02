@@ -23,14 +23,14 @@
       description: Deepseek 主页
       
 - taxonomy: NAS 外网访问
-  icon: bell.svg
+  icon: fas fa-server
   links:
     - title: 绿联私有云-外网访问
       url: https://ug.link/kid1412dxp4800p
       description: 绿联私有云-外网访问
 
 - taxonomy: Home Local
-  icon: bell.svg
+  icon: fas fa-home
   links:
     - title: FNOS MainPage
       url: http://192.168.31.139:5666
@@ -43,7 +43,7 @@
       description: UGreen siyuan.
       
 - taxonomy: JDXB Links
-  icon: bell.svg
+  icon: fas fa-globe
   links:
     - title: FNOS MainPage
       url: http://100.66.1.1:5666
@@ -56,7 +56,7 @@
       description: UGreen siyuan.
 
 - taxonomy: Games Links
-  icon: bell.svg
+  icon: fas fa-gamepad
   links:
     - title: gamer520
       url: https://www.gamer520.com/
@@ -64,14 +64,14 @@
 
 
 - taxonomy: Resource Link
-  icon: bell.svg
+  icon: fas fa-folder-open
   links:
     - title: Haowallpaper 4K
       url: https://haowallpaper.com/
       description: Haowallpaper。
 
 - taxonomy: Music
-  icon: bell.svg
+  icon: fas fa-music
   links:
     - title: 网易云
       url: https://music.163.com/
