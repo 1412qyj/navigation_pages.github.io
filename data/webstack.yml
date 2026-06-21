@@ -7,10 +7,6 @@
       logo: doubao.svg
       url: https://www.doubao.com/chat/
       description: 字节跳动豆包 AI 对话主界面。
-    - title: DeepSeek
-      logo: deepseek.svg
-      url: https://chat.deepseek.com/
-      description: DeepSeek 官方在线对话入口。
     - title: ChatGPT
       logo: chatgpt.svg
       url: https://chatgpt.com/
@@ -84,6 +80,11 @@
       logo: default.webp
       url: https://haowallpaper.com/
       description: Haowallpaper。
+    - title: Aliyun Console
+      logo: default.webp
+      url: https://home.console.aliyun.com/home/dashboard/
+      description: Aliyun Console
+      
 
 - taxonomy: Music
   icon: fas fa-music
