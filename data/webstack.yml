@@ -23,6 +23,10 @@
       logo: deepseek.svg
       url: https://www.deepseek.com/
       description: Deepseek 主页
+    - title: OpenCode
+      url: https://opencode.ai/workspace/
+      description: OpenCode 主页
+      
       
 - taxonomy: NAS 外网访问
   icon: fas fa-server
