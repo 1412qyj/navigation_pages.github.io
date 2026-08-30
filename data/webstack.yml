@@ -24,9 +24,11 @@
       url: https://www.deepseek.com/
       description: Deepseek 主页
     - title: OpenCode
-      url: https://opencode.ai/workspace/
+      url: https://opencode.ai/workspace/wrk_01KVT78HHG799VJJ75WTYDRR99
       description: OpenCode 主页
-      
+    - title: Command Code
+      url: https://commandcode.ai/studio
+      description: Command Code 主页
       
 - taxonomy: NAS 外网访问
   icon: fas fa-server
@@ -76,7 +78,6 @@
       url: https://www.gamer520.com/
       description: gamer520
 
-
 - taxonomy: Resource Link
   icon: fas fa-folder-open
   links:
@@ -88,7 +89,15 @@
       logo: default.webp
       url: https://home.console.aliyun.com/home/dashboard/
       description: Aliyun Console
-      
+
+- taxonomy: navigation_pages
+  icon: fas fa-folder-open
+  links:
+    - title: navigation_pages
+      logo: default.webp
+      url: https://github.com/1412qyj/navigation_pages.github.io
+      description: Current repo url
+
 
 - taxonomy: Music
   icon: fas fa-music
