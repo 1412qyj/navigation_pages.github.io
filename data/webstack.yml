@@ -37,7 +37,11 @@
       logo: default.webp
       url: https://ug.link/kid1412dxp4800p
       description: 绿联私有云-外网访问
-
+    - title: FNOS-外网访问
+      logo: default.webp
+      url: https://fnos.net/kid1412qyj
+      description: FNOS-外网访问
+    
 - taxonomy: Home Local
   icon: fas fa-home
   links:
