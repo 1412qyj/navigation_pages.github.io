@@ -81,6 +81,11 @@
       logo: default.webp
       url: https://www.gamer520.com/
       description: gamer520
+  links:
+    - title: Eden all in
+      logo: default.webp
+      url: https://www.kdocs.cn/l/cggi3hwdgnXc
+      description: Eden all in
 
 - taxonomy: Resource Link
   icon: fas fa-folder-open
